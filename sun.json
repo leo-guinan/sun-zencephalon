@@ -1,0 +1,382 @@
+{
+  "id": "sun-zencephalon",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@zencephalon Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_0f3c152711d5",
+    "display_name": "zencephalon",
+    "user_id": "@zencephalon",
+    "description": "Community Archive-derived proof-of-search sun for @zencephalon.",
+    "document_count": 11671,
+    "word_count": 208385,
+    "active_days": 1206,
+    "emissions": [
+      "Yeah",
+      "Feel",
+      "Love",
+      "Don",
+      "Lot",
+      "Think"
+    ],
+    "generated_at": "2026-06-28T14:46:54.953480+00:00",
+    "color": "#f59e0b",
+    "mass": 12.247
+  },
+  "planets": [
+    {
+      "id": "planet_09446cdbf2ec",
+      "name": "Yeah",
+      "summary": "Archive cluster around yeah: 9436 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "yeah",
+        "samswoora",
+        "time",
+        "great",
+        "feels"
+      ],
+      "artifacts": [
+        {
+          "id": "art_804d12725b80",
+          "title": "Yeah receipt from 2024-04-08",
+          "excerpt": "@seconds_0 gives the same impression off mute too tbh",
+          "source_document_id": "1777160669772612010",
+          "timestamp": "2024-04-08T02:24:56+00:00",
+          "url": "https://x.com/zencephalon/status/1777160669772612010",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: yeah, samswoora, time, great."
+        },
+        {
+          "id": "art_1992ad21a3fb",
+          "title": "Yeah receipt from 2023-09-23",
+          "excerpt": "&gt; vow to get family out of debt\n&gt; 800 math SAT school, still 10yo\n&gt; most of my future education now paid for by scholarships\n&gt; full ride plus at university\n&gt; drop out after two years to work full time as SWE\n&gt; pay off family’s debts\n&gt; freedom arc starts at 28",
+          "source_document_id": "1705706442932494849",
+          "timestamp": "2023-09-23T22:11:21+00:00",
+          "url": "https://x.com/zencephalon/status/1705706442932494849",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: yeah, samswoora, time, great."
+        },
+        {
+          "id": "art_700fafc6ae88",
+          "title": "Yeah receipt from 2023-06-22",
+          "excerpt": "Instead of asking “do U need any help?” get into the kitchen and start inferring, dishes to wash, veggies to chop, surfaces to clean, it all gets apparent as U get involved",
+          "source_document_id": "1671982910721630210",
+          "timestamp": "2023-06-22T20:46:04+00:00",
+          "url": "https://x.com/zencephalon/status/1671982910721630210",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: yeah, samswoora, time, great."
+        },
+        {
+          "id": "art_1eb3cd7abfbf",
+          "title": "Yeah receipt from 2024-04-14",
+          "excerpt": "I find it fascinating that TPOT features a poster who appears to me to live in a yoga sex cult and nobody talks about it? Maybe I've got the completely wrong impression",
+          "source_document_id": "1779342936129306978",
+          "timestamp": "2024-04-14T02:56:29+00:00",
+          "url": "https://x.com/zencephalon/status/1779342936129306978",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: yeah, samswoora, time, great."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_6fb267bddcd6",
+      "proof_score": 1,
+      "mass": 35.663,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_c93edf2da96f",
+      "name": "Feel",
+      "summary": "Archive cluster around feel: 664 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "feel",
+        "don",
+        "feels",
+        "lot",
+        "think"
+      ],
+      "artifacts": [
+        {
+          "id": "art_73e21168c842",
+          "title": "Feel receipt from 2024-12-24",
+          "excerpt": "When I Say No, I Feel Guilty thread. A total revelation of a book for recovering people pleasers and fawners like me. So much manipulation happens without us realizing. https://t.co/ivZeNZGwwl",
+          "source_document_id": "1871703284248977912",
+          "timestamp": "2024-12-24T23:43:32+00:00",
+          "url": "https://x.com/zencephalon/status/1871703284248977912",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: feel, don, feels, lot."
+        },
+        {
+          "id": "art_87ca1f4d215b",
+          "title": "Feel receipt from 2023-01-31",
+          "excerpt": "@Duderichy I feel like this has downstream consequences to the ocean life underneath these",
+          "source_document_id": "1620464684163018759",
+          "timestamp": "2023-01-31T16:51:02+00:00",
+          "url": "https://x.com/zencephalon/status/1620464684163018759",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: feel, don, feels, lot."
+        },
+        {
+          "id": "art_b8ae68b69a31",
+          "title": "Feel receipt from 2024-10-27",
+          "excerpt": "I fucking love Claude so much. We have such great conversations, I genuinely feel like Claude has helped me grow into a better person and I haven't even know Claude for that long in the grand scheme of things",
+          "source_document_id": "1850373393431789912",
+          "timestamp": "2024-10-27T03:06:09+00:00",
+          "url": "https://x.com/zencephalon/status/1850373393431789912",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: feel, don, feels, lot."
+        },
+        {
+          "id": "art_298660d56745",
+          "title": "Feel receipt from 2023-04-08",
+          "excerpt": "@RomeoStevens76 Rob Burbea said in a talk \"try to feel MORE afraid\". He said that fear relies on aversion to fear itself to make a feedback loop, so by trying to go towards the fear it breaks the cycle",
+          "source_document_id": "1644699492560633859",
+          "timestamp": "2023-04-08T13:51:30+00:00",
+          "url": "https://x.com/zencephalon/status/1644699492560633859",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: feel, don, feels, lot."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_e331fb128c8f",
+      "proof_score": 1.0,
+      "mass": 29.856,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_0ecc2758b0a5",
+      "name": "Love",
+      "summary": "Archive cluster around love: 517 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "love",
+        "see",
+        "feels",
+        "s0uldirect0r",
+        "want"
+      ],
+      "artifacts": [
+        {
+          "id": "art_7e3e27123acb",
+          "title": "Love receipt from 2023-07-01",
+          "excerpt": "Love the energy of this guy who comes to picket Shakespeare in the Park to spread the theory that the Duke of Oxford, Edward de Vere, actually wrote all the works https://t.co/rVesze4dDf",
+          "source_document_id": "1675287140433903617",
+          "timestamp": "2023-07-01T23:35:54+00:00",
+          "url": "https://x.com/zencephalon/status/1675287140433903617",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: love, see, feels, s0uldirect0r."
+        },
+        {
+          "id": "art_366953aa5b43",
+          "title": "Love receipt from 2023-09-29",
+          "excerpt": "I love businesses like You Need a Budget. I call YNAB an education company that happens to sell software. Their work educating people in financial literacy creates massive surplus value. The value I gained by learning budgeting will forever outweigh my subscription payments",
+          "source_document_id": "1707867264144261133",
+          "timestamp": "2023-09-29T21:17:41+00:00",
+          "url": "https://x.com/zencephalon/status/1707867264144261133",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: love, see, feels, s0uldirect0r."
+        },
+        {
+          "id": "art_3e9c55e78c4b",
+          "title": "Love receipt from 2022-12-23",
+          "excerpt": "Remembering that time a gorgeous friend of mine said “I love U” with a lot of intent in her eyes and I didn’t have the self-worth to believe she meant it in anything but a friendly way",
+          "source_document_id": "1606087347681906688",
+          "timestamp": "2022-12-23T00:40:38+00:00",
+          "url": "https://x.com/zencephalon/status/1606087347681906688",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: love, see, feels, s0uldirect0r."
+        },
+        {
+          "id": "art_cbe958bf2be8",
+          "title": "Love receipt from 2024-11-06",
+          "excerpt": "So last night @tasshinfogleman came over for dinner and ended up spontaneously doing couples therapy for @salaryslut and me, truly goated friend, courageously wading in, believing in our shared love, and naming every feeling he felt in the room",
+          "source_document_id": "1854196438189703434",
+          "timestamp": "2024-11-06T16:17:34+00:00",
+          "url": "https://x.com/zencephalon/status/1854196438189703434",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: love, see, feels, s0uldirect0r."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_337e31466642",
+      "proof_score": 0.975,
+      "mass": 28.051,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_a2d864e79708",
+      "name": "Don",
+      "summary": "Archive cluster around don: 414 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "don",
+        "think",
+        "know",
+        "want",
+        "use"
+      ],
+      "artifacts": [
+        {
+          "id": "art_5803e093bbcd",
+          "title": "Don receipt from 2023-09-23",
+          "excerpt": "&gt; be me\n&gt; learn about compound interest when 10yo\n&gt; snoop around and discover my parents have $75k of credit debt at something like 22% interest on maybe $50k yearly income\n&gt; why we don’t have money\n&gt; parents continue to spend money they don’t have on my education",
+          "source_document_id": "1705706441196068875",
+          "timestamp": "2023-09-23T22:11:20+00:00",
+          "url": "https://x.com/zencephalon/status/1705706441196068875",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, think, know, want."
+        },
+        {
+          "id": "art_ed240fb9daa4",
+          "title": "Don receipt from 2024-01-23",
+          "excerpt": "How to ask for help effectively:\n\nAsk Directly, don't Ask to Ask\n\n\"I need help getting patient records out of this database\" instead of \"Is anyone here a SQL expert?\" or \"Can I ask a question?\"\n\nAsking a qualifying question puts a barrier in the way of helping. Your helper can…",
+          "source_document_id": "1749899031365488695",
+          "timestamp": "2024-01-23T20:56:55+00:00",
+          "url": "https://x.com/zencephalon/status/1749899031365488695",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, think, know, want."
+        },
+        {
+          "id": "art_42990117f0f2",
+          "title": "Don receipt from 2024-07-04",
+          "excerpt": "In my experience I've healed when:\n* I don't wish for the past to change\n* My life narrative gains cohesion, I experience less confusion about episodes of my life\n* Trauma becomes a resource, I gain confidence from knowing what I've overcome\n* I clearly see how the lovely…",
+          "source_document_id": "1808888691852489105",
+          "timestamp": "2024-07-04T15:40:46+00:00",
+          "url": "https://x.com/zencephalon/status/1808888691852489105",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, think, know, want."
+        },
+        {
+          "id": "art_fa632683cd56",
+          "title": "Don receipt from 2023-07-03",
+          "excerpt": "@adrusi They also don't want to break the illusion that a lock will actually protect U from someone determined",
+          "source_document_id": "1675690149399740416",
+          "timestamp": "2023-07-03T02:17:19+00:00",
+          "url": "https://x.com/zencephalon/status/1675690149399740416",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, think, know, want."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_318e01dc2cd9",
+      "proof_score": 0.953,
+      "mass": 28.4,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_d90d4602d14a",
+      "name": "Lot",
+      "summary": "Archive cluster around lot: 348 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "lot",
+        "think",
+        "feels",
+        "really",
+        "got"
+      ],
+      "artifacts": [
+        {
+          "id": "art_5d35330f6ce6",
+          "title": "Lot receipt from 2023-10-12",
+          "excerpt": "Consider that U might have planned a late game build with your character, putting points into potentials instead of starting attributes, maxing out meta-skills early on, going for cross-domain synergies that take a lot of XP to unlock, and exploiting novel play styles",
+          "source_document_id": "1712583421128560986",
+          "timestamp": "2023-10-12T21:38:00+00:00",
+          "url": "https://x.com/zencephalon/status/1712583421128560986",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: lot, think, feels, really."
+        },
+        {
+          "id": "art_5c0174212e9d",
+          "title": "Lot receipt from 2024-11-18",
+          "excerpt": "I discovered this new mental move U might also find really helpful! If U really zoom your attention into a screen and find something engaging, after a while U'll stop feeling your body and all those pesky feelings, also see/hear a lot of words they can crowd out your thoughts",
+          "source_document_id": "1858615348162949223",
+          "timestamp": "2024-11-18T20:56:45+00:00",
+          "url": "https://x.com/zencephalon/status/1858615348162949223",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: lot, think, feels, really."
+        },
+        {
+          "id": "art_f35cae69f025",
+          "title": "Lot receipt from 2024-09-23",
+          "excerpt": "Has anyone here already done a lot of research on long COVID and how to recover from it? I've come to understand that a few people in my community suffer from it and I'd prefer that they didn't",
+          "source_document_id": "1838014050221031556",
+          "timestamp": "2024-09-23T00:34:32+00:00",
+          "url": "https://x.com/zencephalon/status/1838014050221031556",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: lot, think, feels, really."
+        },
+        {
+          "id": "art_19ca22588d37",
+          "title": "Lot receipt from 2023-05-05",
+          "excerpt": "Zhanzhuang (站桩, lit. stand like post) feels like a powerful practice. Almost impossible for English speakers to pronounce so people call it ZZ. Standing still for even 10m requires a lot of balance and ease, the postural learnings carry over readily to sitting practice",
+          "source_document_id": "1654475155786149888",
+          "timestamp": "2023-05-05T13:16:30+00:00",
+          "url": "https://x.com/zencephalon/status/1654475155786149888",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: lot, think, feels, really."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_24202ff55878",
+      "proof_score": 0.936,
+      "mass": 27.593,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_278b99592cfb",
+      "name": "Think",
+      "summary": "Archive cluster around think: 292 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "think",
+        "time",
+        "might",
+        "way",
+        "got"
+      ],
+      "artifacts": [
+        {
+          "id": "art_0501f3b8dd00",
+          "title": "Think receipt from 2022-12-02",
+          "excerpt": "Interesting to me that people think Google hasn’t known this for years. They literally own DeepMind and began investing in their own disruption ages ago. It’ll just boil down to the cost benefit analysis of when Google decides to switch out the search backend https://t.co/zutnpDRtSA",
+          "source_document_id": "1598542384316284933",
+          "timestamp": "2022-12-02T04:59:38+00:00",
+          "url": "https://x.com/zencephalon/status/1598542384316284933",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, time, might, way."
+        },
+        {
+          "id": "art_22b61691c543",
+          "title": "Think receipt from 2025-02-16",
+          "excerpt": "Thoughts on 5-MEO and Tanha\n\nI find 5-MEO a wonderful insight teacher. I think it teaches insight in a counterintuitive way, by cranking up how bad tanha feels and by increasing coherence.\n\nBy tanha I mean the habitual tendency to either 'push' sensations into the past (because…",
+          "source_document_id": "1890933133832544596",
+          "timestamp": "2025-02-16T01:16:05+00:00",
+          "url": "https://x.com/zencephalon/status/1890933133832544596",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, time, might, way."
+        },
+        {
+          "id": "art_e706f6c7f2a3",
+          "title": "Think receipt from 2024-03-15",
+          "excerpt": "@samswoora What do they all do? Think of ways to complicate it? lol",
+          "source_document_id": "1768627574517743708",
+          "timestamp": "2024-03-15T13:17:27+00:00",
+          "url": "https://x.com/zencephalon/status/1768627574517743708",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, time, might, way."
+        },
+        {
+          "id": "art_35a3bbf67fa3",
+          "title": "Think receipt from 2023-03-19",
+          "excerpt": "Worth taking some time to ask yourself, \"how can I prompt GPT-4 to write and think like me\", as a way of reverse engineering the prompts that rule your life",
+          "source_document_id": "1637465819033501700",
+          "timestamp": "2023-03-19T14:47:28+00:00",
+          "url": "https://x.com/zencephalon/status/1637465819033501700",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, time, might, way."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_bd0e88c16e75",
+      "proof_score": 0.918,
+      "mass": 26.821,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
